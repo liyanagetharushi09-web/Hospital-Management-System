@@ -1,2 +1,2 @@
 # Hospital-Management-System
-"This project features a hospital management system ERD built with draw.io, illustrating relationships among patients, doctors, nurses, appointments, prescriptions, billing, pharmacy, and surgeries. It serves as a clear blueprint for efficient healthcare database design and data flow.
+A hospital management system designed to streamline patient care and administration. It integrates modules for patients, doctors, nurses, staff, appointments, prescriptions, pharmacy, surgeries, and billing, ensuring efficient data flow, accurate records, and improved healthcare service delivery.
